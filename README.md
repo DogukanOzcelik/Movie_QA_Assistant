@@ -1,5 +1,9 @@
 # 🎬 TMDB Movie Q&A Assistant
 
+## 🎥 Demo
+
+![Uygulama Çalışma Videosu](assets/demo.gif)
+
 Akbank Generative AI Bootcamp için hazırlanmış RAG (Retrieval-Augmented Generation) tabanlı film asistanı projesi.
 
 ## 📋 Proje Hakkında
