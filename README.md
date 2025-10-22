@@ -176,3 +176,8 @@ Final Answer
 - [Sentence-Transformers (all-mpnet-base-v2)](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
 - [Hugging Face Datasets — TMDB 5000 Movies](https://huggingface.co/datasets/AiresPucrs/tmdb-5000-movies)
 - [RapidFuzz](https://github.com/maxbachmann/RapidFuzz)
+
+## 🔗 Uygulama Linki
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movieassistantchatbot.streamlit.app/)
+
+Canlı Demo: https://movieassistantchatbot.streamlit.app/
